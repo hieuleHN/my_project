@@ -4,3 +4,6 @@ const handleClick=()=>{
 const handleHieu=()=>{
     alert("xin chào hiệu")
 }
+const handleQuy=()=>{
+    alert("xin chào quý")
+}
